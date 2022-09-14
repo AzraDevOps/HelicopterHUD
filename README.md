@@ -28,7 +28,7 @@ J'ai juste modifié :
 * Altitude display
 * Airspeed display
 
-# Added Features
+# Added Features (in this version)
 * Fuel display
 * Choice speed display in MPH or KMH
 
