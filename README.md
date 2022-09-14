@@ -9,6 +9,7 @@ I've just modify :
 * Desactivate auto engine Off when landing complete
 * Modify some ligne and param names
 * Add Param to choice if you want speed in MPH or KMH
+
 (FR) C'est une FORK de https://github.com/Andyyy7666/HelicopterHUD
 J'ai juste modifié : 
 * Ajout d'un "IF is any vehicle" pour diminuer la consommation du script quand on n'est pas dans un véhicule
